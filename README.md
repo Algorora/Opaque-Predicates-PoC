@@ -19,7 +19,7 @@ The PerformOperation function will always return twice the input value because t
 Clone the Repository
 
 ```sh
-git clone [Algorora/Opaque-Predicates-PoC](https://github.com/Algorora/Opaque-Predicates-PoC.git)
+git clone https://github.com/Algorora/Opaque-Predicates-PoC.git
 cd opaque-predicates-poc
 ```
 

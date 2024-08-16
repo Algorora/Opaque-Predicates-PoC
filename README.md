@@ -33,7 +33,8 @@ go run main.go
 
 ```sh
 Result: 20
-``
+```
+
 This output demonstrates that the PerformOperation function executes the block that multiplies the input by 2.
 
 # Example

@@ -18,22 +18,22 @@ The PerformOperation function will always return twice the input value because t
 # Running the Code
 Clone the Repository
 
-'''sh
+```sh
 git clone [Algorora/Opaque-Predicates-PoC](https://github.com/Algorora/Opaque-Predicates-PoC.git)
 cd opaque-predicates-poc
-'''
+```
 
 -Run the Program
 
-'''sh
+```sh
 go run main.go
-'''
+```
 
 -Expected Output
 
-'''sh
+```sh
 Result: 20
-'''
+``
 This output demonstrates that the PerformOperation function executes the block that multiplies the input by 2.
 
 # Example
